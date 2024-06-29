@@ -17,7 +17,8 @@ Welcome to the Tic Tac Toe web application! This project is a simple and fun imp
 ### Start the Game:
 - Open the WD3.html file in your browser to launch the game. The game board will be displayed, along with the current game status.
 
-
+## ScreenShots
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_03/blob/main/Preview.png)
 
 
 ## Play the game
