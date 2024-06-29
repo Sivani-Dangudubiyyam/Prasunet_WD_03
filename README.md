@@ -1,6 +1,5 @@
 
 # Tic Tac Toe Web Application
-
 Welcome to the Tic Tac Toe web application! This project is a simple and fun implementation of the classic Tic Tac Toe game that can be played in your web browser. The game is built using HTML, CSS, and JavaScript, providing an interactive and engaging experience for users of all age
 
 ## Features
